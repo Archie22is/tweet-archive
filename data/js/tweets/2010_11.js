@@ -1,12 +1,17 @@
 Grailbird.data.tweets_2010_11 = 
  [ {
+<<<<<<< HEAD
   "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "8321489338114049",
@@ -19,11 +24,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "8321489338114049",
+  "text" : "Awesome license plate http:\/\/instagr.am\/p\/X-xk\/",
+  "id" : 8321489338114049,
+  "created_at" : "2010-11-27 00:49:32 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -33,6 +55,7 @@ Grailbird.data.tweets_2010_11 =
     } ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "7129754880708608",
@@ -45,11 +68,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "7129754880708608",
+  "text" : "Special characters, character sets, and MySQL collation are ruining my life. #fb",
+  "id" : 7129754880708608,
+  "created_at" : "2010-11-23 17:54:00 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -63,13 +103,18 @@ Grailbird.data.tweets_2010_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "6736625585360896",
+<<<<<<< HEAD
   "geo" : {
   },
+=======
+  "geo" : { },
+>>>>>>> master
   "id_str" : "6738102970228736",
   "in_reply_to_user_id" : 7775872,
   "text" : "@jesmith81 Awesome. That made this crap-tastic Rochester Monday morning much, much better. Thank you :)",
   "id" : 6738102970228736,
   "in_reply_to_status_id" : 6736625585360896,
+<<<<<<< HEAD
   "created_at" : "Mon Nov 22 15:57:43 +0000 2010",
   "in_reply_to_screen_name" : "jesmith81",
   "in_reply_to_user_id_str" : "7775872",
@@ -79,11 +124,26 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "created_at" : "2010-11-22 15:57:43 +0000",
+  "in_reply_to_screen_name" : "jesmith81",
+  "in_reply_to_user_id_str" : "7775872",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -97,13 +157,18 @@ Grailbird.data.tweets_2010_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "6558311809814528",
+<<<<<<< HEAD
   "geo" : {
   },
+=======
+  "geo" : { },
+>>>>>>> master
   "id_str" : "6709487914196992",
   "in_reply_to_user_id" : 7775872,
   "text" : "@jesmith81 Can I be a part of your awesome lady band? I need an excuse to buy a pink satin blouse and play keyboards like Yanni.",
   "id" : 6709487914196992,
   "in_reply_to_status_id" : 6558311809814528,
+<<<<<<< HEAD
   "created_at" : "Mon Nov 22 14:04:01 +0000 2010",
   "in_reply_to_screen_name" : "jesmith81",
   "in_reply_to_user_id_str" : "7775872",
@@ -113,17 +178,33 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "created_at" : "2010-11-22 14:04:01 +0000",
+  "in_reply_to_screen_name" : "jesmith81",
+  "in_reply_to_user_id_str" : "7775872",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "6556617441021953",
@@ -136,11 +217,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "6556617441021953",
+  "text" : "I've favourited a YouTube video -- Cee-Lo Green - \"Fuck You\" (Later with Jools Holland) http:\/\/youtu.be\/17eSUnQ-_ek?a",
+  "id" : 6556617441021953,
+  "created_at" : "2010-11-22 03:56:34 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -153,6 +251,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "5470748231598080",
@@ -168,11 +267,31 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "5470748231598080",
+  "in_reply_to_user_id" : 15523823,
+  "text" : "@talcon For you and Kat hehehehe: http:\/\/universalsubtitles.org\/videos\/Q1Y9JV1bMSOb\/ (actually Universal Subtitles is just really cool)",
+  "id" : 5470748231598080,
+  "created_at" : "2010-11-19 04:01:42 +0000",
+  "in_reply_to_screen_name" : "talcon",
+  "in_reply_to_user_id_str" : "15523823",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -182,6 +301,7 @@ Grailbird.data.tweets_2010_11 =
     } ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "4885033319923713",
@@ -194,11 +314,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "4885033319923713",
+  "text" : "Adrian's measure of love for me: \"Like four carrot cakes!\" #fb",
+  "id" : 4885033319923713,
+  "created_at" : "2010-11-17 13:14:17 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -211,12 +348,17 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
+=======
+  "geo" : { },
+>>>>>>> master
   "id_str" : "4618268765593600",
   "in_reply_to_user_id" : 15523823,
   "text" : "@talcon Any bets on how many levels deep you'll go?",
   "id" : 4618268765593600,
+<<<<<<< HEAD
   "created_at" : "Tue Nov 16 19:34:15 +0000 2010",
   "in_reply_to_screen_name" : "talcon",
   "in_reply_to_user_id_str" : "15523823",
@@ -226,11 +368,26 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "created_at" : "2010-11-16 19:34:15 +0000",
+  "in_reply_to_screen_name" : "talcon",
+  "in_reply_to_user_id_str" : "15523823",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -243,6 +400,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "2727541185978368",
@@ -258,14 +416,37 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "2727541185978368",
+  "in_reply_to_user_id" : 15523823,
+  "text" : "@talcon: http:\/\/cakewrecks.blogspot.com\/2010\/10\/sunday-sweets-goes-back-to-future.html",
+  "id" : 2727541185978368,
+  "created_at" : "2010-11-11 14:21:11 +0000",
+  "in_reply_to_screen_name" : "talcon",
+  "in_reply_to_user_id_str" : "15523823",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dwight's ",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "D'Weisenberg",
+>>>>>>> master
       "screen_name" : "diwigit06",
       "indices" : [ 1, 11 ],
       "id_str" : "26354392",
@@ -281,6 +462,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "542608845709312",
@@ -293,11 +475,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "542608845709312",
+  "text" : ".@diwigit06: You should read this. RT @nprmusic: Listening To Rap For The First Time, With A Book Critic http:\/\/n.pr\/bSkz0x",
+  "id" : 542608845709312,
+  "created_at" : "2010-11-05 13:39:02 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "GeneseeCenterArts&Ed",
@@ -310,6 +509,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "29638756897",
@@ -322,17 +522,43 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "29638756897",
+  "text" : ".@RochesterArts Lego + Letterpress?! http:\/\/gizmo.do\/amNibA",
+  "id" : 29638756897,
+  "created_at" : "2010-11-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ ],
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nathan Rice",
+      "screen_name" : "nathanrice",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9778322",
+      "id" : 9778322
+    } ],
+>>>>>>> master
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "29593828981",
@@ -345,11 +571,33 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "in_reply_to_status_id_str" : "29469764267",
+  "geo" : { },
+  "id_str" : "29536257968",
+  "in_reply_to_user_id" : 9778322,
+  "text" : "@nathanrice Thank you for reaffirming that I am not crazy\/stupid\/anti-women's rights\/whatever nonsense for making the DECISION to not vote.",
+  "id" : 29536257968,
+  "in_reply_to_status_id" : 29469764267,
+  "created_at" : "2010-11-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nathanrice",
+  "in_reply_to_user_id_str" : "9778322",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Slate",
@@ -362,6 +610,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "29593503593",
@@ -374,10 +623,24 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "29593503593",
+  "text" : "RT @Slate: The Super Nintendo version of There Will Be Blood http:\/\/slate.me\/alkXbS",
+  "id" : 29593503593,
+  "created_at" : "2010-11-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
@@ -386,11 +649,44 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 0, 11 ],
       "id_str" : "9778322",
       "id" : 9778322
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "29593828981",
+  "text" : "This is why Chinese is hard: http:\/\/9gag.com\/gag\/45918?ref=nf",
+  "id" : 29593828981,
+  "created_at" : "2010-11-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "id" : 21204689,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bluehost",
+      "screen_name" : "bluehost",
+      "indices" : [ 0, 9 ],
+      "id_str" : "551208828",
+      "id" : 551208828
+>>>>>>> master
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "in_reply_to_status_id_str" : "29469764267",
   "geo" : {
   },
@@ -408,16 +704,40 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "29432301845",
+  "in_reply_to_user_id" : 117197109,
+  "text" : "@bluehost Is it possible to install Teambox (Ruby)?",
+  "id" : 29432301845,
+  "created_at" : "2010-11-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "bluehostsupport",
+  "in_reply_to_user_id_str" : "117197109",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
       "screen_name" : "imslp",
+<<<<<<< HEAD
       "indices" : [ 0, 6 ],
+=======
+      "indices" : [ 64, 70 ],
+>>>>>>> master
       "id_str" : "54602662",
       "id" : 54602662
     } ],
@@ -425,6 +745,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "in_reply_to_status_id_str" : "29449326105",
   "geo" : {
   },
@@ -442,11 +763,28 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "29440673283",
+  "text" : "YAY finally managed to carve out some WP volunteer time for the @imslp Journal! Least I can do in exchange for the Debussy Cello Sonata :)",
+  "id" : 29440673283,
+  "created_at" : "2010-11-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Go Fug Yourself",
@@ -460,6 +798,7 @@ Grailbird.data.tweets_2010_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "29391828363",
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "29440831027",
@@ -476,16 +815,41 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "29440831027",
+  "in_reply_to_user_id" : 21279256,
+  "text" : "@fuggirls Have you read McSweeney's Comic Sans monologue? It's AMAZING. http:\/\/www.mcsweeneys.net\/links\/monologues\/15comicsans.html",
+  "id" : 29440831027,
+  "in_reply_to_status_id" : 29391828363,
+  "created_at" : "2010-11-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "fuggirls",
+  "in_reply_to_user_id_str" : "21279256",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
       "screen_name" : "imslp",
+<<<<<<< HEAD
       "indices" : [ 64, 70 ],
+=======
+      "indices" : [ 0, 6 ],
+>>>>>>> master
       "id_str" : "54602662",
       "id" : 54602662
     } ],
@@ -493,6 +857,7 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "29440673283",
@@ -537,6 +902,24 @@ Grailbird.data.tweets_2010_11 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "in_reply_to_status_id_str" : "29449326105",
+  "geo" : { },
+  "id_str" : "29460752113",
+  "in_reply_to_user_id" : 54602662,
+  "text" : "@imslp Awww you're going to make me blush! Thank you! It's my pleasure :)",
+  "id" : 29460752113,
+  "in_reply_to_status_id" : 29449326105,
+  "created_at" : "2010-11-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "imslp",
+  "in_reply_to_user_id_str" : "54602662",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }

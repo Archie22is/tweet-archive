@@ -1,6 +1,10 @@
 Grailbird.data.tweets_2010_12 = 
  [ {
+<<<<<<< HEAD
   "source" : "<a href=\"http://taptaptap.com/\" rel=\"nofollow\">tap tap tap</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/taptaptap.com\/\" rel=\"nofollow\"\u003Etap tap tap\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "tap tap tap",
@@ -13,6 +17,7 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "20499816916189184",
@@ -25,11 +30,28 @@ Grailbird.data.tweets_2010_12 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "20499816916189184",
+  "text" : "So cool! @taptaptap is giving out custom engraved X-ray iPads! http:\/\/campl.us",
+  "id" : 20499816916189184,
+  "created_at" : "2010-12-30 15:21:51 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -43,13 +65,18 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "20115513967386625",
+<<<<<<< HEAD
   "geo" : {
   },
+=======
+  "geo" : { },
+>>>>>>> master
   "id_str" : "20140479060377600",
   "in_reply_to_user_id" : 16213079,
   "text" : "@nacin It's not just in Virginia...",
   "id" : 20140479060377600,
   "in_reply_to_status_id" : 20115513967386625,
+<<<<<<< HEAD
   "created_at" : "Wed Dec 29 15:33:59 +0000 2010",
   "in_reply_to_screen_name" : "nacin",
   "in_reply_to_user_id_str" : "16213079",
@@ -59,11 +86,26 @@ Grailbird.data.tweets_2010_12 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "created_at" : "2010-12-29 15:33:59 +0000",
+  "in_reply_to_screen_name" : "nacin",
+  "in_reply_to_user_id_str" : "16213079",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -73,6 +115,7 @@ Grailbird.data.tweets_2010_12 =
     } ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "19805735672086528",
@@ -85,11 +128,28 @@ Grailbird.data.tweets_2010_12 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "19805735672086528",
+  "text" : "Mmmm #WordPress 3.1 + Admin Bar... I see a return to programming from content migration\/writing\/rewriting in my near future.",
+  "id" : 19805735672086528,
+  "created_at" : "2010-12-28 17:23:50 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
 }, {
+<<<<<<< HEAD
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+=======
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+>>>>>>> master
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -114,6 +174,7 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+<<<<<<< HEAD
   "geo" : {
   },
   "id_str" : "19764786854100992",
@@ -126,6 +187,19 @@ Grailbird.data.tweets_2010_12 =
     "protected" : false,
     "id_str" : "21204689",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2985433685/6047698c34de0e4fb205470e5f8a2bad_normal.jpeg",
+=======
+  "geo" : { },
+  "id_str" : "19764786854100992",
+  "text" : "RT @rachbarnhart: Wow, no kidding! This is the Newark NJ mayor. RT @brianstelter: Today's must-read Twitter feed: @CoryBooker.",
+  "id" : 19764786854100992,
+  "created_at" : "2010-12-28 14:41:07 +0000",
+  "user" : {
+    "name" : "Helen Hou-Sand\u00ED",
+    "screen_name" : "helenhousandi",
+    "protected" : false,
+    "id_str" : "21204689",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+>>>>>>> master
     "id" : 21204689,
     "verified" : false
   }
