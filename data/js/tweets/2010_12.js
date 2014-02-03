@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_12 = 
  [ {
-  "source" : "<a href=\"http://taptaptap.com/\" rel=\"nofollow\">tap tap tap</a>",
+  "source" : "\u003Ca href=\"http:\/\/taptaptap.com\/\" rel=\"nofollow\"\u003Etap tap tap\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "tap tap tap",
@@ -15,7 +15,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "geo" : { },
   "id_str" : "20499816916189184",
-  "text" : "So cool! @taptaptap is giving out custom engraved X-ray iPads! http://campl.us",
+  "text" : "So cool! @taptaptap is giving out custom engraved X-ray iPads! http:\/\/campl.us",
   "id" : 20499816916189184,
   "created_at" : "2010-12-30 15:21:51 +0000",
   "user" : {
@@ -23,12 +23,12 @@ Grailbird.data.tweets_2010_12 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -56,12 +56,12 @@ Grailbird.data.tweets_2010_12 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -73,7 +73,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "geo" : { },
   "id_str" : "19805735672086528",
-  "text" : "Mmmm #WordPress 3.1 + Admin Bar... I see a return to programming from content migration/writing/rewriting in my near future.",
+  "text" : "Mmmm #WordPress 3.1 + Admin Bar... I see a return to programming from content migration\/writing\/rewriting in my near future.",
   "id" : 19805735672086528,
   "created_at" : "2010-12-28 17:23:50 +0000",
   "user" : {
@@ -81,12 +81,12 @@ Grailbird.data.tweets_2010_12 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2010_12 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

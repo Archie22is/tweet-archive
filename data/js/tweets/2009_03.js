@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2009_03 = 
  [ {
-  "source" : "<a href=\"http://thecosmicmachine.com/eventbox/\" rel=\"nofollow\">EventBox</a>",
+  "source" : "\u003Ca href=\"http:\/\/thecosmicmachine.com\/eventbox\/\" rel=\"nofollow\"\u003EEventBox\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9,7 +9,7 @@ Grailbird.data.tweets_2009_03 =
   },
   "geo" : { },
   "id_str" : "1388228216",
-  "text" : "mmm Macheist... http://macheist.com",
+  "text" : "mmm Macheist... http:\/\/macheist.com",
   "id" : 1388228216,
   "created_at" : "2009-03-25 00:00:00 +0000",
   "user" : {
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2009_03 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2009_03 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -66,7 +66,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : { },
   "id_str" : "1285534979",
   "in_reply_to_user_id" : 7282592,
-  "text" : "@MacHeist Yeah, I\u2019ll take a free copy of DEVONthink! http://macheist.com/tweetblast/ #MacHeist #free",
+  "text" : "@MacHeist Yeah, I\u2019ll take a free copy of DEVONthink! http:\/\/macheist.com\/tweetblast\/ #MacHeist #free",
   "id" : 1285534979,
   "created_at" : "2009-03-05 00:00:00 +0000",
   "in_reply_to_screen_name" : "MacHeist",
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2009_03 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

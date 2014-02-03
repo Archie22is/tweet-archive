@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_01 = 
  [ {
-  "source" : "<a href=\"http://taptaptap.com/camera+\" rel=\"nofollow\">Camera+</a>",
+  "source" : "\u003Ca href=\"http:\/\/taptaptap.com\/camera+\" rel=\"nofollow\"\u003ECamera+\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9,7 +9,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "32300374220087297",
-  "text" : "Late night snack, all the way from Costa Rica! (No, this lactose intolerant Asian is not the one with a glass of milk) http://campl.us/wOx",
+  "text" : "Late night snack, all the way from Costa Rica! (No, this lactose intolerant Asian is not the one with a glass of milk) http:\/\/campl.us\/wOx",
   "id" : 32300374220087297,
   "created_at" : "2011-02-01 04:53:03 +0000",
   "user" : {
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DISGRASIAN\u2122",
@@ -51,12 +51,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jane Wells",
@@ -71,7 +71,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "31850475762487296",
-  "text" : ".@janeforshort Random thought: has the number of female WordPress developers grown/been growing at all?",
+  "text" : ".@janeforshort Random thought: has the number of female WordPress developers grown\/been growing at all?",
   "id" : 31850475762487296,
   "created_at" : "2011-01-30 23:05:19 +0000",
   "user" : {
@@ -79,12 +79,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nathan Rice",
@@ -112,12 +112,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Miller",
@@ -139,7 +139,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : { },
   "id_str" : "31504477987012608",
   "in_reply_to_user_id" : 14877236,
-  "text" : "@millerryan Maybe this can go along with @jmbeyette's smelling salt rack: http://some.ly/fc8xYN",
+  "text" : "@millerryan Maybe this can go along with @jmbeyette's smelling salt rack: http:\/\/some.ly\/fc8xYN",
   "id" : 31504477987012608,
   "created_at" : "2011-01-30 00:10:27 +0000",
   "in_reply_to_screen_name" : "millerryan",
@@ -149,12 +149,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Boone B. Gorges",
@@ -170,7 +170,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : { },
   "id_str" : "30804731752353794",
   "in_reply_to_user_id" : 15864599,
-  "text" : "@boone http://some.ly/ehssR8",
+  "text" : "@boone http:\/\/some.ly\/ehssR8",
   "id" : 30804731752353794,
   "created_at" : "2011-01-28 01:49:55 +0000",
   "in_reply_to_screen_name" : "boone",
@@ -180,12 +180,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "30726055027277824",
-  "text" : "I favorited a YouTube video -- Superb Lyrebird imitating construction work - Adelaide Zoo http://youtu.be/WeQjkQpeJwY?a",
+  "text" : "I favorited a YouTube video -- Superb Lyrebird imitating construction work - Adelaide Zoo http:\/\/youtu.be\/WeQjkQpeJwY?a",
   "id" : 30726055027277824,
   "created_at" : "2011-01-27 20:37:17 +0000",
   "user" : {
@@ -202,12 +202,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blog.helenyhou.com\" rel=\"nofollow\">Helen Blog</a>",
+  "source" : "\u003Ca href=\"http:\/\/blog.helenyhou.com\" rel=\"nofollow\"\u003EHelen Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -216,7 +216,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "30715964299411456",
-  "text" : "New blog post: Really Simple Gallery Widget http://bit.ly/esiSdT",
+  "text" : "New blog post: Really Simple Gallery Widget http:\/\/bit.ly\/esiSdT",
   "id" : 30715964299411456,
   "created_at" : "2011-01-27 19:57:11 +0000",
   "user" : {
@@ -224,12 +224,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.helenhousandi.com/wordpress\" rel=\"nofollow\">Helen and WordPress</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.helenhousandi.com\/wordpress\" rel=\"nofollow\"\u003EHelen and WordPress\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "30704377530425344",
-  "text" : "and #WordPress: Really Simple Gallery Widget http://bit.ly/esiSdT",
+  "text" : "and #WordPress: Really Simple Gallery Widget http:\/\/bit.ly\/esiSdT",
   "id" : 30704377530425344,
   "created_at" : "2011-01-27 19:11:08 +0000",
   "user" : {
@@ -249,12 +249,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "30326683068276736",
-  "text" : "Hell. Yes. http://www.oakley.com/asian-fit",
+  "text" : "Hell. Yes. http:\/\/www.oakley.com\/asian-fit",
   "id" : 30326683068276736,
   "created_at" : "2011-01-26 18:10:19 +0000",
   "user" : {
@@ -271,12 +271,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Coyier",
@@ -291,7 +291,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "30104225228787712",
-  "text" : "RT @chriscoyier: &lt;a href=\"/edit/xxx\" title=\"I think the button is kinda self explanatory\"&gt;Edit&lt;/a&gt;",
+  "text" : "RT @chriscoyier: &lt;a href=\"\/edit\/xxx\" title=\"I think the button is kinda self explanatory\"&gt;Edit&lt;\/a&gt;",
   "id" : 30104225228787712,
   "created_at" : "2011-01-26 03:26:21 +0000",
   "user" : {
@@ -299,12 +299,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -332,12 +332,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -363,12 +363,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -388,12 +388,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -413,12 +413,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DISGRASIAN\u2122",
@@ -433,7 +433,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "27879820079669248",
-  "text" : "RT @disgrasian: AWESOME. Chinese farmer catches ping pong balls with chopsticks http://bit.ly/hJiYUo",
+  "text" : "RT @disgrasian: AWESOME. Chinese farmer catches ping pong balls with chopsticks http:\/\/bit.ly\/hJiYUo",
   "id" : 27879820079669248,
   "created_at" : "2011-01-20 00:07:21 +0000",
   "user" : {
@@ -441,12 +441,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jane Wells",
@@ -472,12 +472,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blog.helenyhou.com\" rel=\"nofollow\">Helen Blog</a>",
+  "source" : "\u003Ca href=\"http:\/\/blog.helenyhou.com\" rel=\"nofollow\"\u003EHelen Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "27772660268146688",
-  "text" : "New blog post: My new favorite thing (for printing) http://bit.ly/hnFsx3",
+  "text" : "New blog post: My new favorite thing (for printing) http:\/\/bit.ly\/hnFsx3",
   "id" : 27772660268146688,
   "created_at" : "2011-01-19 17:01:32 +0000",
   "user" : {
@@ -494,12 +494,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blog.helenyhou.com\" rel=\"nofollow\">Helen Blog</a>",
+  "source" : "\u003Ca href=\"http:\/\/blog.helenyhou.com\" rel=\"nofollow\"\u003EHelen Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -508,7 +508,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "27411391639977984",
-  "text" : "New blog post: Hide Admin Bar Search is now in the WordPress Plugin Directory http://bit.ly/elZJmm",
+  "text" : "New blog post: Hide Admin Bar Search is now in the WordPress Plugin Directory http:\/\/bit.ly\/elZJmm",
   "id" : 27411391639977984,
   "created_at" : "2011-01-18 17:05:59 +0000",
   "user" : {
@@ -516,12 +516,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.helenhousandi.com/wordpress\" rel=\"nofollow\">Helen and WordPress</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.helenhousandi.com\/wordpress\" rel=\"nofollow\"\u003EHelen and WordPress\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "27400423837016064",
-  "text" : "and #WordPress: Hide Admin Bar Search is now in the WordPress Plugin Directory http://bit.ly/elZJmm",
+  "text" : "and #WordPress: Hide Admin Bar Search is now in the WordPress Plugin Directory http:\/\/bit.ly\/elZJmm",
   "id" : 27400423837016064,
   "created_at" : "2011-01-18 16:22:24 +0000",
   "user" : {
@@ -541,12 +541,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -574,12 +574,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -596,7 +596,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : { },
   "id_str" : "27192547109507074",
   "in_reply_to_user_id" : 16275936,
-  "text" : "@rachbarnhart Accidentally sent that from Eastman's account. Read from D&C there's a gunman. Pic from Broadway:  http://twitpic.com/3r1odi",
+  "text" : "@rachbarnhart Accidentally sent that from Eastman's account. Read from D&C there's a gunman. Pic from Broadway:  http:\/\/twitpic.com\/3r1odi",
   "id" : 27192547109507074,
   "in_reply_to_status_id" : 27191938746679296,
   "created_at" : "2011-01-18 02:36:23 +0000",
@@ -607,12 +607,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rochester D and C",
@@ -630,9 +630,9 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "27191755753398272",
-  "text" : "RT @DandC: Police surround downtown apartment complex http://rocne.ws/fvq #ROC",
+  "text" : "RT @DandC: Police surround downtown apartment complex http:\/\/rocne.ws\/fvq #ROC",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.democratandchronicle.com/\" rel=\"nofollow\">Democrat and Chronicle</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.democratandchronicle.com\/\" rel=\"nofollow\"\u003EDemocrat and Chronicle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -644,7 +644,7 @@ Grailbird.data.tweets_2011_01 =
     },
     "geo" : { },
     "id_str" : "27189848045527040",
-    "text" : "Police surround downtown apartment complex http://rocne.ws/fvq #ROC",
+    "text" : "Police surround downtown apartment complex http:\/\/rocne.ws\/fvq #ROC",
     "id" : 27189848045527040,
     "created_at" : "2011-01-18 02:25:39 +0000",
     "user" : {
@@ -652,7 +652,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "DandC",
       "protected" : false,
       "id_str" : "17022537",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3162546779/77c93406dc64e83cb4d4702febea16d7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3162546779\/77c93406dc64e83cb4d4702febea16d7_normal.png",
       "id" : 17022537,
       "verified" : true
     }
@@ -664,12 +664,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -697,12 +697,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -728,12 +728,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blog.helenyhou.com\" rel=\"nofollow\">Helen Blog</a>",
+  "source" : "\u003Ca href=\"http:\/\/blog.helenyhou.com\" rel=\"nofollow\"\u003EHelen Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "25929907351592963",
-  "text" : "New blog post: Hiding the search form in the 3.1 Admin Bar http://bit.ly/fTcXqw",
+  "text" : "New blog post: Hiding the search form in the 3.1 Admin Bar http:\/\/bit.ly\/fTcXqw",
   "id" : 25929907351592963,
   "created_at" : "2011-01-14 14:59:06 +0000",
   "user" : {
@@ -750,12 +750,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blog.helenyhou.com\" rel=\"nofollow\">Helen Blog</a>",
+  "source" : "\u003Ca href=\"http:\/\/blog.helenyhou.com\" rel=\"nofollow\"\u003EHelen Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -764,7 +764,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "25929904482680832",
-  "text" : "New blog post: Almost borked helen blog http://bit.ly/gNNuXg",
+  "text" : "New blog post: Almost borked helen blog http:\/\/bit.ly\/gNNuXg",
   "id" : 25929904482680832,
   "created_at" : "2011-01-14 14:59:05 +0000",
   "user" : {
@@ -772,12 +772,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.helenhousandi.com/wordpress\" rel=\"nofollow\">Helen and WordPress</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.helenhousandi.com\/wordpress\" rel=\"nofollow\"\u003EHelen and WordPress\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -789,7 +789,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "25769044019773440",
-  "text" : "and #WordPress: Almost borked helen blog http://www.helenhousandi.com/wordpress/2011/01/almost-borked-helen-blog/",
+  "text" : "and #WordPress: Almost borked helen blog http:\/\/www.helenhousandi.com\/wordpress\/2011\/01\/almost-borked-helen-blog\/",
   "id" : 25769044019773440,
   "created_at" : "2011-01-14 04:19:53 +0000",
   "user" : {
@@ -797,12 +797,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -827,12 +827,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jayvie Canono",
@@ -855,12 +855,12 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -869,7 +869,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "geo" : { },
   "id_str" : "22810411552219136",
-  "text" : "I favorited a YouTube video -- Karita Mattila: Salome Final Scene (Met, 2008) 2/2 http://youtu.be/CJsvPOykcXI?a",
+  "text" : "I favorited a YouTube video -- Karita Mattila: Salome Final Scene (Met, 2008) 2\/2 http:\/\/youtu.be\/CJsvPOykcXI?a",
   "id" : 22810411552219136,
   "created_at" : "2011-01-06 00:23:20 +0000",
   "user" : {
@@ -877,7 +877,7 @@ Grailbird.data.tweets_2011_01 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

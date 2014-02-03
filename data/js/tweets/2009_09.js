@@ -9,7 +9,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4486834210",
-  "text" : "vote for me/my recipe! don't let bacon wrapped chicken nuggets win! http://bit.ly/2odJfD",
+  "text" : "vote for me\/my recipe! don't let bacon wrapped chicken nuggets win! http:\/\/bit.ly\/2odJfD",
   "id" : 4486834210,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

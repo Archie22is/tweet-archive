@@ -9,7 +9,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1668669770",
-  "text" : "Here Comes the Hotstepper: http://tinyurl.com/cqbev9",
+  "text" : "Here Comes the Hotstepper: http:\/\/tinyurl.com\/cqbev9",
   "id" : 1668669770,
   "created_at" : "2009-05-01 00:00:00 +0000",
   "user" : {
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1659410575",
-  "text" : "missing the virginia beach experience: http://throwbackvb.blogspot.com",
+  "text" : "missing the virginia beach experience: http:\/\/throwbackvb.blogspot.com",
   "id" : 1659410575,
   "created_at" : "2009-04-30 00:00:00 +0000",
   "user" : {
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -53,7 +53,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1659420300",
-  "text" : "Goosebumps and California Love: http://throwbackvb.blogspot.com",
+  "text" : "Goosebumps and California Love: http:\/\/throwbackvb.blogspot.com",
   "id" : 1659420300,
   "created_at" : "2009-04-30 00:00:00 +0000",
   "user" : {
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -111,7 +111,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1588474192",
-  "text" : "Just joined a twibe. Visit http://twibes.com/collabpiano-chamber to join",
+  "text" : "Just joined a twibe. Visit http:\/\/twibes.com\/collabpiano-chamber to join",
   "id" : 1588474192,
   "created_at" : "2009-04-22 00:00:00 +0000",
   "user" : {
@@ -133,7 +133,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1588477777",
-  "text" : "Just joined a twibe. Visit http://twibes.com/collabpiano-vocal to join",
+  "text" : "Just joined a twibe. Visit http:\/\/twibes.com\/collabpiano-vocal to join",
   "id" : 1588477777,
   "created_at" : "2009-04-22 00:00:00 +0000",
   "user" : {
@@ -155,7 +155,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -177,7 +177,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -195,22 +195,17 @@ Grailbird.data.tweets_2009_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1588859089",
   "geo" : { },
   "id_str" : "1589048056",
-  "in_reply_to_user_id" : 30200572,
   "text" : "@lizpianist the shortened URLs seems to work just fine when clicked",
   "id" : 1589048056,
-  "in_reply_to_status_id" : 1588859089,
   "created_at" : "2009-04-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "lizpianist",
-  "in_reply_to_user_id_str" : "30200572",
   "user" : {
     "name" : "Helen Hou-Sand\u00ED",
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -238,7 +233,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -260,7 +255,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -282,7 +277,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -302,7 +297,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "geo" : { },
   "id_str" : "1442629001",
-  "text" : "I bought the @MacHeist 3 Bundle. 12 Top Mac apps worth $900+ for just $39 AND I just got Delicious Library 2 FREE! http://mhtweet.com/mjPTvc",
+  "text" : "I bought the @MacHeist 3 Bundle. 12 Top Mac apps worth $900+ for just $39 AND I just got Delicious Library 2 FREE! http:\/\/mhtweet.com\/mjPTvc",
   "id" : 1442629001,
   "created_at" : "2009-04-03 00:00:00 +0000",
   "user" : {
@@ -310,7 +305,7 @@ Grailbird.data.tweets_2009_04 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

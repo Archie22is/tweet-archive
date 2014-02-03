@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_11 = 
  [ {
-  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9,7 +9,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "8321489338114049",
-  "text" : "Awesome license plate http://instagr.am/p/X-xk/",
+  "text" : "Awesome license plate http:\/\/instagr.am\/p\/X-xk\/",
   "id" : 8321489338114049,
   "created_at" : "2010-11-27 00:49:32 +0000",
   "user" : {
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -42,12 +42,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -75,12 +75,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -108,12 +108,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "6556617441021953",
-  "text" : "I've favourited a YouTube video -- Cee-Lo Green - \"Fuck You\" (Later with Jools Holland) http://youtu.be/17eSUnQ-_ek?a",
+  "text" : "I've favourited a YouTube video -- Cee-Lo Green - \"Fuck You\" (Later with Jools Holland) http:\/\/youtu.be\/17eSUnQ-_ek?a",
   "id" : 6556617441021953,
   "created_at" : "2010-11-22 03:56:34 +0000",
   "user" : {
@@ -130,12 +130,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -151,7 +151,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : { },
   "id_str" : "5470748231598080",
   "in_reply_to_user_id" : 15523823,
-  "text" : "@talcon For you and Kat hehehehe: http://universalsubtitles.org/videos/Q1Y9JV1bMSOb/ (actually Universal Subtitles is just really cool)",
+  "text" : "@talcon For you and Kat hehehehe: http:\/\/universalsubtitles.org\/videos\/Q1Y9JV1bMSOb\/ (actually Universal Subtitles is just really cool)",
   "id" : 5470748231598080,
   "created_at" : "2010-11-19 04:01:42 +0000",
   "in_reply_to_screen_name" : "talcon",
@@ -161,12 +161,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -186,12 +186,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -217,12 +217,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -238,7 +238,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : { },
   "id_str" : "2727541185978368",
   "in_reply_to_user_id" : 15523823,
-  "text" : "@talcon: http://cakewrecks.blogspot.com/2010/10/sunday-sweets-goes-back-to-future.html",
+  "text" : "@talcon: http:\/\/cakewrecks.blogspot.com\/2010\/10\/sunday-sweets-goes-back-to-future.html",
   "id" : 2727541185978368,
   "created_at" : "2010-11-11 14:21:11 +0000",
   "in_reply_to_screen_name" : "talcon",
@@ -248,15 +248,15 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dwight's ",
+      "name" : "D'Weisenberg",
       "screen_name" : "diwigit06",
       "indices" : [ 1, 11 ],
       "id_str" : "26354392",
@@ -274,7 +274,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "542608845709312",
-  "text" : ".@diwigit06: You should read this. RT @nprmusic: Listening To Rap For The First Time, With A Book Critic http://n.pr/bSkz0x",
+  "text" : ".@diwigit06: You should read this. RT @nprmusic: Listening To Rap For The First Time, With A Book Critic http:\/\/n.pr\/bSkz0x",
   "id" : 542608845709312,
   "created_at" : "2010-11-05 13:39:02 +0000",
   "user" : {
@@ -282,12 +282,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GeneseeCenterArts&Ed",
@@ -302,7 +302,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "29638756897",
-  "text" : ".@RochesterArts Lego + Letterpress?! http://gizmo.do/amNibA",
+  "text" : ".@RochesterArts Lego + Letterpress?! http:\/\/gizmo.do\/amNibA",
   "id" : 29638756897,
   "created_at" : "2010-11-04 00:00:00 +0000",
   "user" : {
@@ -310,12 +310,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nathan Rice",
@@ -332,7 +332,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : { },
   "id_str" : "29536257968",
   "in_reply_to_user_id" : 9778322,
-  "text" : "@nathanrice Thank you for reaffirming that I am not crazy/stupid/anti-women's rights/whatever nonsense for making the DECISION to not vote.",
+  "text" : "@nathanrice Thank you for reaffirming that I am not crazy\/stupid\/anti-women's rights\/whatever nonsense for making the DECISION to not vote.",
   "id" : 29536257968,
   "in_reply_to_status_id" : 29469764267,
   "created_at" : "2010-11-03 00:00:00 +0000",
@@ -343,12 +343,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Slate",
@@ -363,7 +363,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "29593503593",
-  "text" : "RT @Slate: The Super Nintendo version of There Will Be Blood http://slate.me/alkXbS",
+  "text" : "RT @Slate: The Super Nintendo version of There Will Be Blood http:\/\/slate.me\/alkXbS",
   "id" : 29593503593,
   "created_at" : "2010-11-03 00:00:00 +0000",
   "user" : {
@@ -371,12 +371,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -385,7 +385,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "geo" : { },
   "id_str" : "29593828981",
-  "text" : "This is why Chinese is hard: http://9gag.com/gag/45918?ref=nf",
+  "text" : "This is why Chinese is hard: http:\/\/9gag.com\/gag\/45918?ref=nf",
   "id" : 29593828981,
   "created_at" : "2010-11-03 00:00:00 +0000",
   "user" : {
@@ -393,12 +393,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bluehost",
@@ -424,12 +424,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
@@ -452,12 +452,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Go Fug Yourself",
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : { },
   "id_str" : "29440831027",
   "in_reply_to_user_id" : 21279256,
-  "text" : "@fuggirls Have you read McSweeney's Comic Sans monologue? It's AMAZING. http://www.mcsweeneys.net/links/monologues/15comicsans.html",
+  "text" : "@fuggirls Have you read McSweeney's Comic Sans monologue? It's AMAZING. http:\/\/www.mcsweeneys.net\/links\/monologues\/15comicsans.html",
   "id" : 29440831027,
   "in_reply_to_status_id" : 29391828363,
   "created_at" : "2010-11-02 00:00:00 +0000",
@@ -485,12 +485,12 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
@@ -518,7 +518,7 @@ Grailbird.data.tweets_2010_11 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_07 = 
  [ {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20,12 +20,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19912055525",
-  "text" : "New blog post: XKCD does it again http://bit.ly/9gxLlf",
+  "text" : "New blog post: XKCD does it again http:\/\/bit.ly\/9gxLlf",
   "id" : 19912055525,
   "created_at" : "2010-07-30 00:00:00 +0000",
   "user" : {
@@ -42,12 +42,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -67,12 +67,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "tap tap tap",
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19793667644",
-  "text" : "RT @taptaptap: A very cool photo blog with all pics taken on an iPhone 4 and processed with only Camera+ http://is.gd/dPSm2 (via @newezra)",
+  "text" : "RT @taptaptap: A very cool photo blog with all pics taken on an iPhone 4 and processed with only Camera+ http:\/\/is.gd\/dPSm2 (via @newezra)",
   "id" : 19793667644,
   "created_at" : "2010-07-29 00:00:00 +0000",
   "user" : {
@@ -101,12 +101,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ten One Design",
@@ -134,12 +134,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Miller",
@@ -156,7 +156,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : { },
   "id_str" : "19849775522",
   "in_reply_to_user_id" : 14877236,
-  "text" : "@millerryan but his CAPS LOCK KEY IS LOUD!!!! http://bit.ly/aZU6hV",
+  "text" : "@millerryan but his CAPS LOCK KEY IS LOUD!!!! http:\/\/bit.ly\/aZU6hV",
   "id" : 19849775522,
   "in_reply_to_status_id" : 19849147828,
   "created_at" : "2010-07-29 00:00:00 +0000",
@@ -167,12 +167,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -189,12 +189,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Beyette",
@@ -215,7 +215,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19739587038",
-  "text" : "RT @jmbeyette: Thanks for the great link @talcon\nhttp://www.tiepedia.com/secret/208-steve-bill",
+  "text" : "RT @jmbeyette: Thanks for the great link @talcon\nhttp:\/\/www.tiepedia.com\/secret\/208-steve-bill",
   "id" : 19739587038,
   "created_at" : "2010-07-28 00:00:00 +0000",
   "user" : {
@@ -223,12 +223,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -248,7 +248,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : { },
   "id_str" : "19661464451",
   "in_reply_to_user_id" : 169586892,
-  "text" : "@the_higgster congrats on your website! looks good and i'm biased toward wordpress, so tell your designer/developer that i approve =)",
+  "text" : "@the_higgster congrats on your website! looks good and i'm biased toward wordpress, so tell your designer\/developer that i approve =)",
   "id" : 19661464451,
   "in_reply_to_status_id" : 19632851379,
   "created_at" : "2010-07-27 00:00:00 +0000",
@@ -281,7 +281,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -312,12 +312,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -326,7 +326,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19691757257",
-  "text" : "New blog post: Magic Trackpad?! http://bit.ly/azzn0f",
+  "text" : "New blog post: Magic Trackpad?! http:\/\/bit.ly\/azzn0f",
   "id" : 19691757257,
   "created_at" : "2010-07-27 00:00:00 +0000",
   "user" : {
@@ -334,12 +334,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "AddThis",
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : { },
   "id_str" : "19693419891",
   "in_reply_to_user_id" : 15907720,
-  "text" : "@addthis Had a great customer service/feedback experience with Matt Keesan today for @EastmanSchool - thought you should know!",
+  "text" : "@addthis Had a great customer service\/feedback experience with Matt Keesan today for @EastmanSchool - thought you should know!",
   "id" : 19693419891,
   "created_at" : "2010-07-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "addthis",
@@ -371,12 +371,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "MacHeist",
@@ -399,12 +399,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -432,12 +432,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19583185079",
-  "text" : "New blog post: iPhoneography: Lighter embed http://bit.ly/ddI0Er",
+  "text" : "New blog post: iPhoneography: Lighter embed http:\/\/bit.ly\/ddI0Er",
   "id" : 19583185079,
   "created_at" : "2010-07-26 00:00:00 +0000",
   "user" : {
@@ -454,12 +454,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -468,7 +468,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19600528454",
-  "text" : "New blog post: My husband is a Mr. Bauhaus http://bit.ly/cFHzjZ",
+  "text" : "New blog post: My husband is a Mr. Bauhaus http:\/\/bit.ly\/cFHzjZ",
   "id" : 19600528454,
   "created_at" : "2010-07-26 00:00:00 +0000",
   "user" : {
@@ -476,7 +476,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -509,12 +509,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -523,7 +523,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19224474054",
-  "text" : "New blog post: Wordpress Function: Sites in Dashboard menu http://bit.ly/b0M6DF",
+  "text" : "New blog post: Wordpress Function: Sites in Dashboard menu http:\/\/bit.ly\/b0M6DF",
   "id" : 19224474054,
   "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
@@ -531,12 +531,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19225628646",
-  "text" : "New blog post: More Wordpress thoughts http://bit.ly/98YFvi",
+  "text" : "New blog post: More Wordpress thoughts http:\/\/bit.ly\/98YFvi",
   "id" : 19225628646,
   "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
@@ -553,12 +553,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -567,7 +567,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "19228984470",
-  "text" : "I favorited a YouTube video -- Four year old conducts the William Tell Overture http://youtu.be/H3lzvw1RIY4?a",
+  "text" : "I favorited a YouTube video -- Four year old conducts the William Tell Overture http:\/\/youtu.be\/H3lzvw1RIY4?a",
   "id" : 19228984470,
   "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -606,12 +606,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -620,7 +620,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "18535383141",
-  "text" : "New blog post: Smart purchase: Corningware Mugs http://bit.ly/aagSyU",
+  "text" : "New blog post: Smart purchase: Corningware Mugs http:\/\/bit.ly\/aagSyU",
   "id" : 18535383141,
   "created_at" : "2010-07-14 00:00:00 +0000",
   "user" : {
@@ -628,12 +628,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -642,7 +642,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "18535441633",
-  "text" : "New blog post: Modern day clich\u00E9? http://bit.ly/cwDJkA",
+  "text" : "New blog post: Modern day clich\u00E9? http:\/\/bit.ly\/cwDJkA",
   "id" : 18535441633,
   "created_at" : "2010-07-14 00:00:00 +0000",
   "user" : {
@@ -650,12 +650,12 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://alexking.org/projects/wordpress\" rel=\"nofollow\">Twitter Tools</a>",
+  "source" : "\u003Ca href=\"http:\/\/alexking.org\/projects\/wordpress\" rel=\"nofollow\"\u003ETwitter Tools\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -664,7 +664,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "geo" : { },
   "id_str" : "18075768567",
-  "text" : "New blog post: Font Love: Lady Ren\u00E9 http://bit.ly/cLYSJG",
+  "text" : "New blog post: Font Love: Lady Ren\u00E9 http:\/\/bit.ly\/cLYSJG",
   "id" : 18075768567,
   "created_at" : "2010-07-09 00:00:00 +0000",
   "user" : {
@@ -672,7 +672,7 @@ Grailbird.data.tweets_2010_07 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }

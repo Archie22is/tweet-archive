@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_02 = 
  [ {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Coyier",
@@ -13,14 +13,14 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 74, 93 ],
-      "url" : "http://t.co/LoIBR8E",
-      "expanded_url" : "http://css-tricks.com/examples/BoxFollow/",
-      "display_url" : "css-tricks.com/examples/BoxFo\u2026"
+      "url" : "http:\/\/t.co\/LoIBR8E",
+      "expanded_url" : "http:\/\/css-tricks.com\/examples\/BoxFollow\/",
+      "display_url" : "css-tricks.com\/examples\/BoxFo\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "42233340790706176",
-  "text" : "This is so going in my work side project. RT @chriscoyier: Tinker tinker: http://t.co/LoIBR8E",
+  "text" : "This is so going in my work side project. RT @chriscoyier: Tinker tinker: http:\/\/t.co\/LoIBR8E",
   "id" : 42233340790706176,
   "created_at" : "2011-02-28 14:43:07 +0000",
   "user" : {
@@ -28,12 +28,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DefaultCase",
@@ -46,14 +46,14 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 117, 136 ],
-      "url" : "http://t.co/XM9sbNO",
-      "expanded_url" : "http://defaultcase.com/iphone/iphone3/orange-perforated-case-for-iphone3.html",
-      "display_url" : "defaultcase.com/iphone/iphone3\u2026"
+      "url" : "http:\/\/t.co\/XM9sbNO",
+      "expanded_url" : "http:\/\/defaultcase.com\/iphone\/iphone3\/orange-perforated-case-for-iphone3.html",
+      "display_url" : "defaultcase.com\/iphone\/iphone3\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "42022850533658624",
-  "text" : "Got my @defaultcase yesterday - the orange is more traffic cone neon, but of course that makes me love it even more. http://t.co/XM9sbNO",
+  "text" : "Got my @defaultcase yesterday - the orange is more traffic cone neon, but of course that makes me love it even more. http:\/\/t.co\/XM9sbNO",
   "id" : 42022850533658624,
   "created_at" : "2011-02-28 00:46:42 +0000",
   "user" : {
@@ -61,12 +61,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -79,14 +79,14 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ {
       "indices" : [ 108, 127 ],
-      "url" : "http://t.co/Yugn30Z",
-      "expanded_url" : "http://wordpress.org/extend/plugins/really-simple-gallery-widget/",
-      "display_url" : "wordpress.org/extend/plugins\u2026"
+      "url" : "http:\/\/t.co\/Yugn30Z",
+      "expanded_url" : "http:\/\/wordpress.org\/extend\/plugins\/really-simple-gallery-widget\/",
+      "display_url" : "wordpress.org\/extend\/plugins\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "41995904261173248",
-  "text" : "Just got my first #WordPress plugin donation - woo! Faith in humanity restored; time to add new features to http://t.co/Yugn30Z #fb",
+  "text" : "Just got my first #WordPress plugin donation - woo! Faith in humanity restored; time to add new features to http:\/\/t.co\/Yugn30Z #fb",
   "id" : 41995904261173248,
   "created_at" : "2011-02-27 22:59:38 +0000",
   "user" : {
@@ -94,12 +94,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.helenhousandi.com/wordpress\" rel=\"nofollow\">Helen and WordPress</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.helenhousandi.com\/wordpress\" rel=\"nofollow\"\u003EHelen and WordPress\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -111,7 +111,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "41751762880839681",
-  "text" : "and #WordPress: Styling the Really Simple Gallery Widget http://bit.ly/eipPxt",
+  "text" : "and #WordPress: Styling the Really Simple Gallery Widget http:\/\/bit.ly\/eipPxt",
   "id" : 41751762880839681,
   "created_at" : "2011-02-27 06:49:30 +0000",
   "user" : {
@@ -119,12 +119,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -137,16 +137,16 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 95, 114 ],
-      "url" : "http://t.co/CrAd7QS",
-      "expanded_url" : "http://youtu.be/J6z88ur-8bY",
-      "display_url" : "youtu.be/J6z88ur-8bY"
+      "url" : "http:\/\/t.co\/CrAd7QS",
+      "expanded_url" : "http:\/\/youtu.be\/J6z88ur-8bY",
+      "display_url" : "youtu.be\/J6z88ur-8bY"
     } ]
   },
   "in_reply_to_status_id_str" : "41182073091932160",
   "geo" : { },
   "id_str" : "41182883360014336",
   "in_reply_to_user_id" : 16275936,
-  "text" : "@rachbarnhart Maybe all the stations should just play this, only replacing \"rain\" with \"snow\": http://t.co/CrAd7QS",
+  "text" : "@rachbarnhart Maybe all the stations should just play this, only replacing \"rain\" with \"snow\": http:\/\/t.co\/CrAd7QS",
   "id" : 41182883360014336,
   "in_reply_to_status_id" : 41182073091932160,
   "created_at" : "2011-02-25 17:08:59 +0000",
@@ -157,12 +157,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -182,12 +182,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Beyette",
@@ -212,14 +212,14 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 6, 25 ],
-      "url" : "http://t.co/CySKlSO",
-      "expanded_url" : "http://www.hengedocks.com/",
+      "url" : "http:\/\/t.co\/CySKlSO",
+      "expanded_url" : "http:\/\/www.hengedocks.com\/",
       "display_url" : "hengedocks.com"
     } ]
   },
   "geo" : { },
   "id_str" : "40969681426841600",
-  "text" : "Cool: http://t.co/CySKlSO @jmbeyette @talcon @millerryan",
+  "text" : "Cool: http:\/\/t.co\/CySKlSO @jmbeyette @talcon @millerryan",
   "id" : 40969681426841600,
   "created_at" : "2011-02-25 03:01:47 +0000",
   "user" : {
@@ -227,12 +227,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -247,7 +247,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40877588687618048",
-  "text" : "Ended up using #gravityforms structure and CSS for said custom form, b/c it's solid and I wanted to match our other forms. &lt;3 #gravityforms.",
+  "text" : "Ended up using #gravityforms structure and CSS for said custom form, b\/c it's solid and I wanted to match our other forms. &lt;3 #gravityforms.",
   "id" : 40877588687618048,
   "created_at" : "2011-02-24 20:55:51 +0000",
   "user" : {
@@ -255,12 +255,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -272,7 +272,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40876925656379392",
-  "text" : "Had to create a custom form shortcode for #WordPress (ODBC/Filemaker, Ajax population, protected download) - 847 lines. I need a drink.",
+  "text" : "Had to create a custom form shortcode for #WordPress (ODBC\/Filemaker, Ajax population, protected download) - 847 lines. I need a drink.",
   "id" : 40876925656379392,
   "created_at" : "2011-02-24 20:53:13 +0000",
   "user" : {
@@ -280,12 +280,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.helenhousandi.com/wordpress\" rel=\"nofollow\">Helen and WordPress</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.helenhousandi.com\/wordpress\" rel=\"nofollow\"\u003EHelen and WordPress\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -297,7 +297,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40870722817495040",
-  "text" : "and #WordPress: Showing other image sizes in the Media Gallery dialog http://bit.ly/g6ybul",
+  "text" : "and #WordPress: Showing other image sizes in the Media Gallery dialog http:\/\/bit.ly\/g6ybul",
   "id" : 40870722817495040,
   "created_at" : "2011-02-24 20:28:34 +0000",
   "user" : {
@@ -305,12 +305,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ipstenu (Mika E.)",
@@ -338,12 +338,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ipstenu (Mika E.)",
@@ -356,16 +356,16 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 81, 100 ],
-      "url" : "http://t.co/PcHU7qw",
-      "expanded_url" : "http://wordpress.org/extend/plugins/hide-admin-bar-search/",
-      "display_url" : "wordpress.org/extend/plugins\u2026"
+      "url" : "http:\/\/t.co\/PcHU7qw",
+      "expanded_url" : "http:\/\/wordpress.org\/extend\/plugins\/hide-admin-bar-search\/",
+      "display_url" : "wordpress.org\/extend\/plugins\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "40559098277658624",
   "geo" : { },
   "id_str" : "40561914392092672",
   "in_reply_to_user_id" : 9412542,
-  "text" : "@Ipstenu I wrote a tiny plugin to hide just the search form if it's a \"problem\": http://t.co/PcHU7qw &lt;/shameful promotion&gt;",
+  "text" : "@Ipstenu I wrote a tiny plugin to hide just the search form if it's a \"problem\": http:\/\/t.co\/PcHU7qw &lt;\/shameful promotion&gt;",
   "id" : 40561914392092672,
   "in_reply_to_status_id" : 40559098277658624,
   "created_at" : "2011-02-24 00:01:28 +0000",
@@ -376,12 +376,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ipstenu (Mika E.)",
@@ -408,9 +408,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40505891497328640",
-  "text" : "RT @Ipstenu: RT @jzy: \"This is a flower pot.\" If Programming Languages Were Essays: http://i.imgur.com/ZyeCO.jpg via @msinilo",
+  "text" : "RT @Ipstenu: RT @jzy: \"This is a flower pot.\" If Programming Languages Were Essays: http:\/\/i.imgur.com\/ZyeCO.jpg via @msinilo",
   "retweeted_status" : {
-    "source" : "<a href=\"http://seesmic.com/seesmic_desktop/sd2\" rel=\"nofollow\">Seesmic Desktop</a>",
+    "source" : "\u003Ca href=\"http:\/\/seesmic.com\/seesmic_desktop\/sd2\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jin Yang",
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "40500991983878144",
-    "text" : "RT @jzy: \"This is a flower pot.\" If Programming Languages Were Essays: http://i.imgur.com/ZyeCO.jpg via @msinilo",
+    "text" : "RT @jzy: \"This is a flower pot.\" If Programming Languages Were Essays: http:\/\/i.imgur.com\/ZyeCO.jpg via @msinilo",
     "id" : 40500991983878144,
     "created_at" : "2011-02-23 19:59:23 +0000",
     "user" : {
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Ipstenu",
       "protected" : false,
       "id_str" : "9412542",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000204121551/f4568059a1ded6f13b97d32bb731f247_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000204121551\/f4568059a1ded6f13b97d32bb731f247_normal.jpeg",
       "id" : 9412542,
       "verified" : false
     }
@@ -451,12 +451,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Smashing Magazine",
@@ -471,9 +471,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40456083348656128",
-  "text" : "RT @smashingmag: We're giving away 5 Ultimate Web Designer packs (http://bit.ly/eIcTte). To get a chance of winning one, just RT this msg!",
+  "text" : "RT @smashingmag: We're giving away 5 Ultimate Web Designer packs (http:\/\/bit.ly\/eIcTte). To get a chance of winning one, just RT this msg!",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -482,7 +482,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "40451441785180160",
-    "text" : "We're giving away 5 Ultimate Web Designer packs (http://bit.ly/eIcTte). To get a chance of winning one, just RT this msg!",
+    "text" : "We're giving away 5 Ultimate Web Designer packs (http:\/\/bit.ly\/eIcTte). To get a chance of winning one, just RT this msg!",
     "id" : 40451441785180160,
     "created_at" : "2011-02-23 16:42:29 +0000",
     "user" : {
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000414711680/e882b24617760a097e1891906af9df3c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000792589363\/016070f166c3002e6c1f591ac30a0db6_normal.png",
       "id" : 15736190,
       "verified" : true
     }
@@ -502,12 +502,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "WordPress ",
@@ -522,9 +522,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40427986943614976",
-  "text" : "RT @wordpress: Announcing WordPress 3.1: Internal linking, admin bar for quick editing access, post formats, and more! http://wp.me/pZhYe-ru",
+  "text" : "RT @wordpress: Announcing WordPress 3.1: Internal linking, admin bar for quick editing access, post formats, and more! http:\/\/wp.me\/pZhYe-ru",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "40427815090257920",
-    "text" : "Announcing WordPress 3.1: Internal linking, admin bar for quick editing access, post formats, and more! http://wp.me/pZhYe-ru",
+    "text" : "Announcing WordPress 3.1: Internal linking, admin bar for quick editing access, post formats, and more! http:\/\/wp.me\/pZhYe-ru",
     "id" : 40427815090257920,
     "created_at" : "2011-02-23 15:08:36 +0000",
     "user" : {
@@ -541,7 +541,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "WordPress",
       "protected" : false,
       "id_str" : "685513",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/59801350/logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/59801350\/logo_normal.png",
       "id" : 685513,
       "verified" : true
     }
@@ -553,12 +553,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "thinkgeek",
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "40411257173450752",
   "text" : "RT @thinkgeek: Today in Geek History: Apache web server is born. 17 years later, it powers 59.4% of the internet--much like Justin Bieber.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -592,7 +592,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "thinkgeek",
       "protected" : false,
       "id_str" : "12611642",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3522713236/268f433597dc1e82d2eafcfb9c5c5b20_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3522713236\/268f433597dc1e82d2eafcfb9c5c5b20_normal.png",
       "id" : 12611642,
       "verified" : true
     }
@@ -604,12 +604,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "WordPress ",
@@ -635,12 +635,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Foley",
@@ -668,12 +668,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Foley",
@@ -701,26 +701,26 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 11, 30 ],
-      "url" : "http://t.co/8M6G1Th",
-      "expanded_url" : "http://enterprise-css.com/4",
-      "display_url" : "enterprise-css.com/4"
+      "url" : "http:\/\/t.co\/8M6G1Th",
+      "expanded_url" : "http:\/\/enterprise-css.com\/4",
+      "display_url" : "enterprise-css.com\/4"
     } ]
   },
   "geo" : { },
   "id_str" : "40270151341309952",
-  "text" : "Hehehehehe http://t.co/8M6G1Th",
+  "text" : "Hehehehehe http:\/\/t.co\/8M6G1Th",
   "id" : 40270151341309952,
   "created_at" : "2011-02-23 04:42:06 +0000",
   "user" : {
@@ -728,12 +728,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bill Walsh",
@@ -767,7 +767,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "TheSlot",
       "protected" : false,
       "id_str" : "14325655",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3346665769/22d2a2a4177e1aab69027b7504fabd51_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3346665769\/22d2a2a4177e1aab69027b7504fabd51_normal.jpeg",
       "id" : 14325655,
       "verified" : false
     }
@@ -779,12 +779,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rachel Barnhart",
@@ -810,12 +810,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "eighth blackbird",
@@ -844,12 +844,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "blueprint design",
@@ -864,9 +864,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40118358858936320",
-  "text" : "RT @blueprintds: Lessons in User Experience FAIL http://fb.me/Excu0Ulz",
+  "text" : "RT @blueprintds: Lessons in User Experience FAIL http:\/\/fb.me\/Excu0Ulz",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003EFacebook\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "39915014445989888",
-    "text" : "Lessons in User Experience FAIL http://fb.me/Excu0Ulz",
+    "text" : "Lessons in User Experience FAIL http:\/\/fb.me\/Excu0Ulz",
     "id" : 39915014445989888,
     "created_at" : "2011-02-22 05:10:55 +0000",
     "user" : {
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "blueprintds",
       "protected" : false,
       "id_str" : "18361135",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1682621944/Screen_Shot_2011-12-07_at_5.06.12_PM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1682621944\/Screen_Shot_2011-12-07_at_5.06.12_PM_normal.png",
       "id" : 18361135,
       "verified" : false
     }
@@ -895,12 +895,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wonkette",
@@ -915,9 +915,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "40105057093419008",
-  "text" : "RT @Wonkette: United States Officially the 'Worst of the Worst' At Everything http://bit.ly/eJow9X",
+  "text" : "RT @Wonkette: United States Officially the 'Worst of the Worst' At Everything http:\/\/bit.ly\/eJow9X",
   "retweeted_status" : {
-    "source" : "<a href=\"http://wordpress.org/extend/plugins/wp-to-twitter/\" rel=\"nofollow\">Wonkette</a>",
+    "source" : "\u003Ca href=\"http:\/\/wordpress.org\/extend\/plugins\/wp-to-twitter\/\" rel=\"nofollow\"\u003EWonkette\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "39690524642246656",
-    "text" : "United States Officially the 'Worst of the Worst' At Everything http://bit.ly/eJow9X",
+    "text" : "United States Officially the 'Worst of the Worst' At Everything http:\/\/bit.ly\/eJow9X",
     "id" : 39690524642246656,
     "created_at" : "2011-02-21 14:18:53 +0000",
     "user" : {
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Wonkette",
       "protected" : false,
       "id_str" : "13215382",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/58735509/twitter-wonkette_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/58735509\/twitter-wonkette_normal.jpg",
       "id" : 13215382,
       "verified" : false
     }
@@ -946,12 +946,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -971,12 +971,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ozh Richard",
@@ -1003,9 +1003,9 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "39409714580160512",
-  "text" : "RT @ozh: ftw :) RT: @cfurmaniak / @kuli: SQL injection to traffic cameras via license plate http://goo.gl/Jq9QZ",
+  "text" : "RT @ozh: ftw :) RT: @cfurmaniak \/ @kuli: SQL injection to traffic cameras via license plate http:\/\/goo.gl\/Jq9QZ",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Christophe Furmaniak",
@@ -1026,7 +1026,7 @@ Grailbird.data.tweets_2011_02 =
     },
     "geo" : { },
     "id_str" : "39404443489402880",
-    "text" : "ftw :) RT: @cfurmaniak / @kuli: SQL injection to traffic cameras via license plate http://goo.gl/Jq9QZ",
+    "text" : "ftw :) RT: @cfurmaniak \/ @kuli: SQL injection to traffic cameras via license plate http:\/\/goo.gl\/Jq9QZ",
     "id" : 39404443489402880,
     "created_at" : "2011-02-20 19:22:06 +0000",
     "user" : {
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "ozh",
       "protected" : false,
       "id_str" : "2340481",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000375757185/dc78c424cbf150d26445d71081dd9bf5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000375757185\/dc78c424cbf150d26445d71081dd9bf5_normal.jpeg",
       "id" : 2340481,
       "verified" : false
     }
@@ -1046,12 +1046,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Samuel Wood (Otto)",
@@ -1077,12 +1077,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1102,12 +1102,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "1Password",
@@ -1124,7 +1124,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : { },
   "id_str" : "38696122243497984",
   "in_reply_to_user_id" : 793926,
-  "text" : "@1Password Fair enough - must have missed it! Had a weird moment the other night where all images/styles disappeared. Still &lt;3 1Password",
+  "text" : "@1Password Fair enough - must have missed it! Had a weird moment the other night where all images\/styles disappeared. Still &lt;3 1Password",
   "id" : 38696122243497984,
   "in_reply_to_status_id" : 38695187777589248,
   "created_at" : "2011-02-18 20:27:29 +0000",
@@ -1135,12 +1135,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "1Password",
@@ -1168,12 +1168,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "1Password",
@@ -1199,12 +1199,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1227,12 +1227,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Guy",
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "37979548813369344",
-  "text" : "I'm on @Zerply, check out my professional profile http://zerp.ly/helenhousandi",
+  "text" : "I'm on @Zerply, check out my professional profile http:\/\/zerp.ly\/helenhousandi",
   "id" : 37979548813369344,
   "created_at" : "2011-02-16 21:00:04 +0000",
   "user" : {
@@ -1288,12 +1288,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
@@ -1321,12 +1321,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Aram Zucker-Scharff",
@@ -1354,12 +1354,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Six Revisions",
@@ -1378,14 +1378,14 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 94, 113 ],
-      "url" : "http://t.co/OxrqYfq",
-      "expanded_url" : "http://goo.gl/63oN6",
-      "display_url" : "goo.gl/63oN6"
+      "url" : "http:\/\/t.co\/OxrqYfq",
+      "expanded_url" : "http:\/\/goo.gl\/63oN6",
+      "display_url" : "goo.gl\/63oN6"
     } ]
   },
   "geo" : { },
   "id_str" : "37877602924367872",
-  "text" : "Just what I needed! RT @sixrevisions: Enhancing WordPress Custom Fields with Search Filtering http://t.co/OxrqYfq by @KirstyBurgoine",
+  "text" : "Just what I needed! RT @sixrevisions: Enhancing WordPress Custom Fields with Search Filtering http:\/\/t.co\/OxrqYfq by @KirstyBurgoine",
   "id" : 37877602924367872,
   "created_at" : "2011-02-16 14:14:58 +0000",
   "user" : {
@@ -1393,12 +1393,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetrucciMusicLibrary",
@@ -1417,14 +1417,14 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 28, 47 ],
-      "url" : "http://t.co/VSyTw1d",
-      "expanded_url" : "http://imslpjournal.org/imslps-5-year-anniversary/",
-      "display_url" : "imslpjournal.org/imslps-5-year-\u2026"
+      "url" : "http:\/\/t.co\/VSyTw1d",
+      "expanded_url" : "http:\/\/imslpjournal.org\/imslps-5-year-anniversary\/",
+      "display_url" : "imslpjournal.org\/imslps-5-year-\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "37875812564733953",
-  "text" : "Happy 5th birthday, @imslp! http://t.co/VSyTw1d via @AddThis",
+  "text" : "Happy 5th birthday, @imslp! http:\/\/t.co\/VSyTw1d via @AddThis",
   "id" : 37875812564733953,
   "created_at" : "2011-02-16 14:07:52 +0000",
   "user" : {
@@ -1432,12 +1432,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Women Of History",
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "WomenOfHistory",
       "protected" : false,
       "id_str" : "142977623",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2817863728/1cc2b8ef64daacf586d56572069c89ad_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2817863728\/1cc2b8ef64daacf586d56572069c89ad_normal.jpeg",
       "id" : 142977623,
       "verified" : false
     }
@@ -1483,12 +1483,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Jimenez",
@@ -1516,12 +1516,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Jimenez",
@@ -1547,12 +1547,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "RetailMeNot.com",
@@ -1581,12 +1581,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -1614,12 +1614,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Jaquith",
@@ -1632,30 +1632,30 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 73, 92 ],
-      "url" : "http://t.co/lzC5wob",
-      "expanded_url" : "http://isolani.co.uk/blog/javascript/BreakingTheWebWithHashBangs",
-      "display_url" : "isolani.co.uk/blog/javascrip\u2026"
+      "url" : "http:\/\/t.co\/lzC5wob",
+      "expanded_url" : "http:\/\/isolani.co.uk\/blog\/javascript\/BreakingTheWebWithHashBangs",
+      "display_url" : "isolani.co.uk\/blog\/javascrip\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "35373847050059776",
-  "text" : "RT @markjaquith: Good writeup of why #! \"AJAX\" URLs are a terrible idea: http://t.co/lzC5wob",
+  "text" : "RT @markjaquith: Good writeup of why #! \"AJAX\" URLs are a terrible idea: http:\/\/t.co\/lzC5wob",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 56, 75 ],
-        "url" : "http://t.co/lzC5wob",
-        "expanded_url" : "http://isolani.co.uk/blog/javascript/BreakingTheWebWithHashBangs",
-        "display_url" : "isolani.co.uk/blog/javascrip\u2026"
+        "url" : "http:\/\/t.co\/lzC5wob",
+        "expanded_url" : "http:\/\/isolani.co.uk\/blog\/javascript\/BreakingTheWebWithHashBangs",
+        "display_url" : "isolani.co.uk\/blog\/javascrip\u2026"
       } ]
     },
     "geo" : { },
     "id_str" : "35192245804072960",
-    "text" : "Good writeup of why #! \"AJAX\" URLs are a terrible idea: http://t.co/lzC5wob",
+    "text" : "Good writeup of why #! \"AJAX\" URLs are a terrible idea: http:\/\/t.co\/lzC5wob",
     "id" : 35192245804072960,
     "created_at" : "2011-02-09 04:24:19 +0000",
     "user" : {
@@ -1663,7 +1663,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1807864528/image1328510666_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1807864528\/image1328510666_normal.png",
       "id" : 821042,
       "verified" : false
     }
@@ -1675,12 +1675,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Last.fm",
@@ -1703,26 +1703,26 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 28, 47 ],
-      "url" : "http://t.co/jPR7OFH",
-      "expanded_url" : "http://www.laboratory424.com/build/mario-magnet-board",
-      "display_url" : "laboratory424.com/build/mario-ma\u2026"
+      "url" : "http:\/\/t.co\/jPR7OFH",
+      "expanded_url" : "http:\/\/www.laboratory424.com\/build\/mario-magnet-board",
+      "display_url" : "laboratory424.com\/build\/mario-ma\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "32891252789739520",
-  "text" : "My next papercraft project: http://t.co/jPR7OFH",
+  "text" : "My next papercraft project: http:\/\/t.co\/jPR7OFH",
   "id" : 32891252789739520,
   "created_at" : "2011-02-02 20:01:00 +0000",
   "user" : {
@@ -1730,12 +1730,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Slate",
@@ -1750,7 +1750,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "geo" : { },
   "id_str" : "32640253357461504",
-  "text" : "RT @Slate: Spectacular. An image of the blizzard from NOAA. http://bit.ly/esgaND",
+  "text" : "RT @Slate: Spectacular. An image of the blizzard from NOAA. http:\/\/bit.ly\/esgaND",
   "id" : 32640253357461504,
   "created_at" : "2011-02-02 03:23:37 +0000",
   "user" : {
@@ -1758,12 +1758,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A",
@@ -1791,12 +1791,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Coyier",
@@ -1812,7 +1812,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : { },
   "id_str" : "32515022022254592",
   "in_reply_to_user_id" : 793830,
-  "text" : "@chriscoyier Seems like number porting has started: http://on.mash.to/gA4xto",
+  "text" : "@chriscoyier Seems like number porting has started: http:\/\/on.mash.to\/gA4xto",
   "id" : 32515022022254592,
   "created_at" : "2011-02-01 19:06:00 +0000",
   "in_reply_to_screen_name" : "chriscoyier",
@@ -1822,12 +1822,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Boone B. Gorges",
@@ -1853,12 +1853,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason",
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "helenhousandi",
     "protected" : false,
     "id_str" : "21204689",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3464638305/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
     "id" : 21204689,
     "verified" : false
   }
